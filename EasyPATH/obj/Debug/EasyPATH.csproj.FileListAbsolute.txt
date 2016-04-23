@@ -1,0 +1,10 @@
+D:\workspace\c#\EasyPATH\EasyPATH\bin\Debug\EasyPATH.exe.config
+D:\workspace\c#\EasyPATH\EasyPATH\bin\Debug\EasyPATH.exe
+D:\workspace\c#\EasyPATH\EasyPATH\bin\Debug\EasyPATH.pdb
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.csprojResolveAssemblyReference.cache
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.Form1.resources
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.Properties.Resources.resources
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.csproj.GenerateResource.Cache
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.exe
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.pdb
+D:\workspace\c#\EasyPATH\EasyPATH\obj\Debug\EasyPATH.csproj.ResolveComReference.cache
